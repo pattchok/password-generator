@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    background: #1f2937;
+    font-family: "Karla", sans-serif;
+    padding: 60px 40px
+}
+
+h1 {
+    color: white;
+    font-size: 60;
+    font-family: "Karla", sans-serif;
+    font-weight: 700;
+    margin-bottom: 0
+}
+
+#highlight {
+    color: #4adf87
+}
+
+#description {
+    color: #acadb4;
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    margin-top: 8px;
+    font-size: 16px
+}
+
+button {
+    color: white;
+    background: #12b981;
+    margin-top: 32px;
+    padding: 9px 17px 9px 15px;
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+    border: none;
+    border-radius: 5px
+}
+
+.password {
+    display: flex;
+    gap: 20px;
+}
+
+#pw1 {
+    background: #273448;
+    color: #52ec8d;
+    padding: 8px 24px;
+    border-radius: 5px;
+}
+
+#pw2 {
+    background: #273448;
+    color: #52ec8d;
+    padding: 8px 24px;
+    border-radius: 5px;
+}
+
+/* color palette
+navy background #1f2937
+navy button #273448
+grey text #acadb4
+green title #4adf87
+green button #12b981
+green text in button #52ec8d
+*/

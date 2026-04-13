@@ -1,19 +1,11 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+## about this project
+a random password generator app that creates two secure passwords at once, each 15 characters long. click the button and both passwords populate instantly. built with JavaScript, this was my first time working with randomization logic and dynamically updating the DOM!
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+**tech stack:** HTML, CSS, JavaScript
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+thanks for stopping by :)
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## about me
+hi, i'm patt! i'm a PM learning to code in the age of AI. i have experience in both product and program management but never coded myself irl before. i believe understanding actual coding will help me use AI in a better, more efficient way, especially in more complex environments.
 
-Happy Coding!
+i'm from a business background but jumped into PM work since graduation in 2019. i've taken online courses like CS50x, a few codecademy tracks, and some python/data courses, but never really built anything outside of them. in 2026 i found scrimba, a very hands-on platform that guides you through building and deploying real apps, so i'm starting to learn how to code again.
